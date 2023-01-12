@@ -1,0 +1,36 @@
+[{
+	"recordId": 1,
+	"customerId":2,
+	"date": "11/01/2021",
+	"totalAmount": 120
+},
+{
+	"recordId": 2,
+	"customerId":2,
+	"date": "12/01/2021",
+	"totalAmount": 120
+},
+{
+	"recordId": 3,
+	"customerId":2,
+	"date": "10/01/2021",
+	"totalAmount": 120
+},
+{
+	"recordId": 17,
+	"customerId":2,
+	"date": "01/12/2021",
+	"totalAmount": 60
+},
+{
+	"recordId": 4,
+	"customerId":198,
+	"date": "11/01/2021",
+	"totalAmount": 82
+},
+{
+	"recordId": 5,
+	"customerId":30,
+	"date": "11/31/2021",
+	"totalAmount": 272
+}]
